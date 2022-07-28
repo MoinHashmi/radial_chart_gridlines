@@ -1,16 +1,4 @@
 # flutter_custom_charts
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is just a sample to draw gridlines on radial chart in flutter.
+![Simulator Screen Shot - iPhone 12 - 2022-07-26 at 14 02 56](https://user-images.githubusercontent.com/24909828/181438705-5f706b64-45a3-4f2d-a72f-27b773646aad.png)
